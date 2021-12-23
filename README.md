@@ -4,7 +4,7 @@
 
 [![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/BirthdayWishes/)
 
-### Designing a [website](https://smilegupta.github.io/BirthdayWishes/) to celebrate your loved one's day is always a great idea!
+### Designing a website to celebrate your loved one's day is always a great idea!
 
 > #### Click [here](https://smilegupta.github.io/BirthdayWishes/) to view live demo!
 
