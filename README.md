@@ -1,8 +1,8 @@
 # Happy Birthday! - [Coder's way of wishing](https://smilegupta.github.io/BirthdayWishes/)
-[![Happy Birthday](https://img.shields.io/badge/Happy-Birthday-dodgerblue.svg?style=for-the-badge)](https://github.com/smilegupta/BirthdayWishes/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b4/b.in?name=DidDog)
+[![Happy Birthday](https://img.shields.io/badge/Happy-Birthday-dodgerblue.svg?style=for-the-badge)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b4/b.in?name=DidDog) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b4/b.in?name=DidDog)
 > **99.9% of people just say "Happy Birthday" to each other over Social Networking Sites like [Facebook](https://www.facebook.com/diddid.dogdid) and [Twitter](https://twitter.com/diddog_in) with the same 14 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
-[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://smilegupta.github.io/BirthdayWishes/)
+[![check demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b4/b.in?name=DidDog)
 
 ### Designing a website to celebrate your loved one's day is always a great idea!
 
