@@ -18,7 +18,7 @@
 
 ### Need help?
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@diddod.dogdid&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://m.facebook.com/diddid.dogdid)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@diddog.in&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/diddog.in/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@gupta_smile_&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/gupta_smile_)
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@diddod.dogdid&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://m.facebook.com/diddid.dogdid)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@diddog.in&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/diddog.in/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@diddog_in&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://mobile.twitter.com/diddog_in)
 
 ***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/BirthdayWishes/) this repo.***
 
