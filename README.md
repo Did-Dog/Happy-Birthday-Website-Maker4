@@ -6,7 +6,7 @@
 
 ### Designing a website to celebrate your loved one's day is always a great idea!
 
-> #### Click [here](https://smilegupta.github.io/BirthdayWishes/) to view live demo!
+> #### [Click here to view live demo](https://qszlv2cknhlprmmfedfavw-on.drv.tw/wish-web/b4/b.in?name=DidDog) 
 
 ## Technology Stack Used
 
